@@ -12,7 +12,16 @@ Upstream Server Support: Forwards queries to multiple upstream DNS servers.
 Customizable Configuration: Adjust settings for DNS servers, Redis connection, and caching behavior.
 Error Handling and Logging: Provides meaningful error messages and logs for troubleshooting.
 ## Installation
+### Clone the Repository
 
+ ``` Bash
+https://github.com/lokesh-katari/DNS-forwarder.git
+ ```
+navigate to the project directory
+ ``` Bash
+./DNS-forwarder
+
+ ```
 ### Prerequisites:
   Go (version 1.18 or later)
   Redis
