@@ -34,7 +34,7 @@ Redis connection details
 Caching options
 Run the Forwarder:
   ``` Bash
-./dns-forwarder
+go run main.go
   ```
 ## Configuration Options
 
